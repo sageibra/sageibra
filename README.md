@@ -1,6 +1,6 @@
 ![Header](https://github.com/sageibra/sageibra/blob/main/head.png)
 
-## I'm a iOS Developer
+## iOS Developer
 
 ### Languages and Tools:
 
