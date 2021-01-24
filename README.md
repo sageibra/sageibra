@@ -19,5 +19,5 @@
 ![SDWebImage](https://img.shields.io/badge/-SDWebImage-090909?style=for-the-badge&logo=sdwebimage&logoColor=00648B)
 
 ### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/akibra)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sageibra)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sageibra_)
