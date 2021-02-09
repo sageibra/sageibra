@@ -1,4 +1,4 @@
-![Header](https://github.com/sageibra/sageibra/blob/main/head.png)
+![Header]()
 
 ## iOS Developer
 
@@ -20,4 +20,3 @@
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sageibra)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sageibra_)
