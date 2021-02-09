@@ -1,5 +1,5 @@
 
-## iOS Software Developer
+## IOS Software Developer
 
 #### Languages and tools:
 
