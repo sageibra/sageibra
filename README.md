@@ -1,8 +1,7 @@
-![Header]()
 
 ## iOS Developer
 
-### Languages and Tools:
+## Languages and Tools:
 
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=E9D54D)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=cocoapods&logoColor=00648B)
@@ -10,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F88C00)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=6296CC)
 
-### Frameworks:
+## Frameworks:
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Realm](https://img.shields.io/badge/-Realm-090909?style=for-the-badge&logo=realm&logoColor=00648B)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-090909?style=for-the-badge&logo=swiftui&logoColor=E5D3FF)
