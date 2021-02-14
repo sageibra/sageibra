@@ -21,5 +21,4 @@
 ![Lottie](https://img.shields.io/badge/-Lottie-090909?style=for-the-badge&logo=lottie&logoColor=00548B)
 
 
-#### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sageibra)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sageibra)](https://github.com/anuraghazra/github-readme-stats)<br>
