@@ -15,7 +15,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Realm](https://img.shields.io/badge/-Realm-090909?style=for-the-badge&logo=realm&logoColor=00648B)
 ![Alamofire](https://img.shields.io/badge/-Alamofire-090909?style=for-the-badge&logo=alamofire&logoColor=00748B)
-![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=coredata&logoColor=00648B)
 ![SDWebImage](https://img.shields.io/badge/-SDWebImage-090909?style=for-the-badge&logo=sdwebimage&logoColor=00649B)
 ![Kingfisher](https://img.shields.io/badge/-Kingfisher-090909?style=for-the-badge&logo=kingfisher&logoColor=00628B)
 ![Lottie](https://img.shields.io/badge/-Lottie-090909?style=for-the-badge&logo=lottie&logoColor=00548B)
