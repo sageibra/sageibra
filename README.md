@@ -1,23 +1,29 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## IOS Software Developer
+<a href="https://t.me/sageibra">
+  <img align="left" alt="Ibragim's Telegram" width="22px" src="https://raw.githubusercontent.com/sageibra/sageibra/main/telegram.svg"/>
+</a>
+<a href="https://twitter.com/sageibra_">
+  <img align="left" alt="Ibragim's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/ibragim-akaev-9246a2212/">
+  <img align="left" alt="Ibragim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+</a>
 
-#### Languages and tools:
+![](https://visitor-badge.glitch.me/badge?page_id=sageibra)
 
-![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=E9D54D)
-![UIKit](https://img.shields.io/badge/-UIKit-090909?style=for-the-badge&logo=uikit&logoColor=E5D3FF)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-090909?style=for-the-badge&logo=swiftui&logoColor=E5D3FF)
-![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode&logoColor=F88C00)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F88C00)
-![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=cocoapods&logoColor=00648B)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=6296CC)
+My name is Ibragim and I'm an iOS Developer who is passionate about building apps and learning new technologies. 
 
-#### Third-party libraries:
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![Realm](https://img.shields.io/badge/-Realm-090909?style=for-the-badge&logo=realm&logoColor=00648B)
-![Alamofire](https://img.shields.io/badge/-Alamofire-090909?style=for-the-badge&logo=alamofire&logoColor=00748B)
-![SDWebImage](https://img.shields.io/badge/-SDWebImage-090909?style=for-the-badge&logo=sdwebimage&logoColor=00649B)
-![Kingfisher](https://img.shields.io/badge/-Kingfisher-090909?style=for-the-badge&logo=kingfisher&logoColor=00628B)
-![Lottie](https://img.shields.io/badge/-Lottie-090909?style=for-the-badge&logo=lottie&logoColor=00548B)
+### 🛠 &nbsp;Tech Stack
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sageibra)](https://github.com/anuraghazra/github-readme-stats)<br>
+![FIGMA](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+<br />
+![SWIFT](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![XCODE](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=0077b6)
+<br />
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=radical" alt="arunsridher" /></p>
+<br />
