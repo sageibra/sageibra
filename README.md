@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://t.me/sageibra">
-  <img align="left" alt="Ibragim's Telegram" width="22px" src="https://raw.githubusercontent.com/sageibra/sageibra/main/telegram.svg"/>
+  <img align="left" alt="Ibragim's Telegram" width="22px" src="https://github.com/sageibra/sageibra/blob/main/icons/telegram.png"/>
 </a>
 <a href="https://twitter.com/sageibra_">
   <img align="left" alt="Ibragim's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
@@ -25,5 +25,6 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 <br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=radical" alt="arunsridher" /></p>
 <br />
