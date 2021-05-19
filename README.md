@@ -25,6 +25,17 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 <br />
+![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=Realm)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Alamofire](https://img.shields.io/badge/-Alamofire-05122A?style=flat&logo=Alamofire)&nbsp;
+![RxSwift](https://img.shields.io/badge/-RxSwift-05122A?style=flat&logo=RxSwift)&nbsp;
+<br />
+![SDWebImage](https://img.shields.io/badge/-SDWebImage-05122A?style=flat&logo=SDWebImage)&nbsp;
+![KingFisher](https://img.shields.io/badge/-KingFisher-05122A?style=flat&logo=KingFisher)&nbsp;
+![R.swift](https://img.shields.io/badge/-R.swift-05122A?style=flat&logo=R.swift)&nbsp;
+![Lottie](https://img.shields.io/badge/-Lottie-05122A?style=flat&logo=Lottie)&nbsp;
+![SnapKit](https://img.shields.io/badge/-SnapKit-05122A?style=flat&logo=SnapKit)&nbsp;
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=radical" alt="arunsridher" /></p>
 <br />
