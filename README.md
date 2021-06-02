@@ -37,5 +37,5 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![SnapKit](https://img.shields.io/badge/-SnapKit-05122A?style=flat&logo=SnapKit)&nbsp;
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=ads-juicy-fresh" alt="arunsridher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=radical" alt="arunsridher" /></p>
 <br />
