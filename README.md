@@ -36,6 +36,3 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![Lottie](https://img.shields.io/badge/-Lottie-05122A?style=flat&logo=Lottie)&nbsp;
 ![SnapKit](https://img.shields.io/badge/-SnapKit-05122A?style=flat&logo=SnapKit)&nbsp;
 <br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageibra&theme=ads-juicy-fresh" alt="arunsridher" /></p>
-<br />
