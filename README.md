@@ -28,6 +28,7 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=Realm)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Alamofire](https://img.shields.io/badge/-Alamofire-05122A?style=flat&logo=Alamofire)&nbsp;
+![Moya](https://img.shields.io/badge/-Moya-05122A?style=flat&logo=Moya)&nbsp;
 ![RxSwift](https://img.shields.io/badge/-RxSwift-05122A?style=flat&logo=RxSwift)&nbsp;
 <br />
 ![SDWebImage](https://img.shields.io/badge/-SDWebImage-05122A?style=flat&logo=SDWebImage)&nbsp;
