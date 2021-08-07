@@ -16,24 +16,36 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 
 ### 🛠 &nbsp;Tech Stack
 
-![FIGMA](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-<br />
-![SWIFT](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![XCODE](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=0077b6)
-<br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 <br />
+![XCODE](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=0077b6)
+![SWIFT](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![UIKit](https://img.shields.io/badge/-UIKit-05122A?style=flat&logo=uiki)&nbsp;
+![SWIFTUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swiftui)&nbsp;
+![Combine](https://img.shields.io/badge/-Combine-05122A?style=flat&logo=combine)&nbsp;
+<br />
+
+###### Frameworks
 ![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=Realm)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Alamofire](https://img.shields.io/badge/-Alamofire-05122A?style=flat&logo=Alamofire)&nbsp;
 ![Moya](https://img.shields.io/badge/-Moya-05122A?style=flat&logo=Moya)&nbsp;
-![RxSwift](https://img.shields.io/badge/-RxSwift-05122A?style=flat&logo=RxSwift)&nbsp;
 <br />
 ![SDWebImage](https://img.shields.io/badge/-SDWebImage-05122A?style=flat&logo=SDWebImage)&nbsp;
 ![KingFisher](https://img.shields.io/badge/-KingFisher-05122A?style=flat&logo=KingFisher)&nbsp;
 ![R.swift](https://img.shields.io/badge/-R.swift-05122A?style=flat&logo=R.swift)&nbsp;
 ![Lottie](https://img.shields.io/badge/-Lottie-05122A?style=flat&logo=Lottie)&nbsp;
 ![SnapKit](https://img.shields.io/badge/-SnapKit-05122A?style=flat&logo=SnapKit)&nbsp;
+![Swiftget](https://img.shields.io/badge/-Swiftget-05122A?style=flat&logo=swiftget)&nbsp;
+<br />
+
+###### Apps
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+![Reveal](https://img.shields.io/badge/-Reveal-05122A?style=flat&logo=reveal)&nbsp;
+![Pow](https://img.shields.io/badge/-Pow-05122A?style=flat&logo=pow)&nbsp;
+![QuickType](https://img.shields.io/badge/-QuickType-05122A?style=flat&logo=quicktype)&nbsp;
 <br />
