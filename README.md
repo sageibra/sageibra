@@ -12,16 +12,21 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sageibra)
 
-My name is Ibragim and I'm an iOS Developer who is passionate about building apps and learning new technologies. 
+iOS Developer who is passionate about building apps and learning new technologies. 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=Bitbucket)&nbsp;
+<br />
+![Git-Flow](https://img.shields.io/badge/-GitFlow-05122A?style=flat&logo=GitFlow)&nbsp;
+![Trunk based development](https://img.shields.io/badge/-TrunkBasedDevelopment-05122A?style=flat&logo=TrunkBasedDevelopment)&nbsp;
 <br />
 ![XCODE](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=0077b6)
 ![SWIFT](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![Objective-C](https://img.shields.io/badge/-ObjectiveC-05122A?style=flat&logo=ObjectiveC)&nbsp;
 ![UIKit](https://img.shields.io/badge/-UIKit-05122A?style=flat&logo=uiki)&nbsp;
 ![SWIFTUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swiftui)&nbsp;
 ![Combine](https://img.shields.io/badge/-Combine-05122A?style=flat&logo=combine)&nbsp;
@@ -37,8 +42,11 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![KingFisher](https://img.shields.io/badge/-KingFisher-05122A?style=flat&logo=KingFisher)&nbsp;
 ![R.swift](https://img.shields.io/badge/-R.swift-05122A?style=flat&logo=R.swift)&nbsp;
 ![Lottie](https://img.shields.io/badge/-Lottie-05122A?style=flat&logo=Lottie)&nbsp;
+<br />
 ![SnapKit](https://img.shields.io/badge/-SnapKit-05122A?style=flat&logo=SnapKit)&nbsp;
-![Swiftget](https://img.shields.io/badge/-Swiftget-05122A?style=flat&logo=swiftget)&nbsp;
+![PinLayout](https://img.shields.io/badge/-PinLayout-05122A?style=flat&logo=PinLayout)&nbsp;
+![Swiftgen](https://img.shields.io/badge/-Swiftgen-05122A?style=flat&logo=swiftgen)&nbsp;
+![Swiftlint](https://img.shields.io/badge/-Swiftlint-05122A?style=flat&logo=Swiftlint)&nbsp;
 <br />
 
 ###### Apps
@@ -46,6 +54,5 @@ My name is Ibragim and I'm an iOS Developer who is passionate about building app
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 ![Reveal](https://img.shields.io/badge/-Reveal-05122A?style=flat&logo=reveal)&nbsp;
-![Pow](https://img.shields.io/badge/-Pow-05122A?style=flat&logo=pow)&nbsp;
-![QuickType](https://img.shields.io/badge/-QuickType-05122A?style=flat&logo=quicktype)&nbsp;
+![Charles](https://img.shields.io/badge/-Charles-05122A?style=flat&logo=Charles)&nbsp;
 <br />
