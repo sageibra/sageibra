@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://t.me/sibragim">
+<a href="https://t.me/sageibra">
   <img align="left" alt="Ibragim's Telegram" width="22px" src="https://github.com/sageibra/sageibra/blob/main/icons/telegram.png"/>
 </a>
 <a href="https://twitter.com/sageibra_">
